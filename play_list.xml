@@ -1,0 +1,15 @@
+<clip name = "image 49">
+	<path>image_49</path>
+	<pkl>dusseldorf_000049.pkl</pkl>
+	<images start_name = "dusseldorf_000049_0000" end_name = "_leftImg8bit.png">
+		<image seq = "24"/>
+		<image seq = "25"/>
+		<image seq = "26"/>
+		<image seq = "27"/>
+		<image seq = "28"/>
+		<image seq = "29"/>
+	</images>
+</clip>
+
+
+
